@@ -1,2 +1,2 @@
 ### UML-diagram of Conceptual Classes
-![](Kurhan_uml.jpg)
+![](kurhan_uml.jpg)
